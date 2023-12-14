@@ -1,0 +1,7 @@
+class PW 
+{
+ public static m1()
+{
+  code///
+}
+}

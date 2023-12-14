@@ -1,0 +1,7 @@
+class pw
+{
+public static m2()
+{
+code////
+}
+}
