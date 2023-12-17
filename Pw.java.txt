@@ -4,4 +4,8 @@ class PW
 {
   code///
 }
+public static m2()
+{
+  code 2/// 
+}
 }
